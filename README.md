@@ -349,6 +349,7 @@ Selling digital products is one of the most scalable revenue streams for creator
 - [r/content_marketing](https://www.reddit.com/r/content_marketing/) — Content marketing discussions.
 - [Indie Hackers](https://www.indiehackers.com/) — Community for bootstrapped founders and creators.
 - [Creator Economy on Discord](https://discord.gg/creators) — Various creator-focused Discord servers.
+- [Kaidomi](https://kaidomi.com/en/creators) — Anime and manga community connecting cosplay, anime edits and creators with the titles that inspired them.
 - [Product Hunt](https://www.producthunt.com/) — Discover new tools and products for creators.
 
 ---
